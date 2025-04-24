@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Stats
 
 Submitted by: Kevin Klein
 
@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://s8.ezgif.com/tmp/ezgif-80cb74a3b03ff8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif-80cb74a3b03ff8](https://github.com/user-attachments/assets/3990addb-86de-435d-85b0-ab0c1fa2d37a)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
