@@ -9,6 +9,11 @@ body {
     width: 50px;
 }
 
+#button-container > button:hover {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -21,6 +26,9 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: flex-start;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
